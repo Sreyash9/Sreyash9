@@ -1,4 +1,4 @@
-# Sreyash Naik:
+# Hello World!, I'm Sreyash Naik👋🏼:
 I am a software developer and currently an University student in India,<br>
 I love Gaming and Tech Development 🎮<br>
 I have developed various Web and Android applications<br>
