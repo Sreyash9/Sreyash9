@@ -2,7 +2,7 @@
 I am a software developer and currently an University student in India,<br>
 I love Gaming and Tech Development 🎮<br>
 I have developed various Web and Android applications<br>
-I’m currently working on AI/ML projects and Game Development🔭 <br>I’m currently learning AI/ML concepts and libraries and Unreal Engine 5🌱 <br>⚡ I'm open to connect and collaborate on projects 💯
+I’m currently working on AI/ML projects and Game Development🔭 <br>I’m currently learning Machine Learning libraries, Computer vision and Game Development🌱 <br>⚡ I'm open to connect and collaborate on projects 💯
 
 # Profile Views:
 <div align="center">
