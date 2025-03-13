@@ -18,12 +18,7 @@ I’m currently working on AI/ML projects and Game Development🔭 <br>I’m cur
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyash9&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=Sreyash9&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<img src="https://raw.githubusercontent.com/Sreyash9/Sreyash9/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sreyash9/Sreyash9/output/github-snake-dark.svg" />
