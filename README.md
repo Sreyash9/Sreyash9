@@ -4,7 +4,12 @@ I love Gaming and Tech Development 🎮<br>
 I have developed various Web and Android applications<br>
 I’m currently working on AI/ML projects and Game Development🔭 <br>I’m currently learning AI/ML concepts and libraries and Unreal Engine 5🌱 <br>⚡ I'm open to connect and collaborate on projects 💯
 
+# Profile Views:
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sreyash9/count.svg?"  />
+</div>
 
+###
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreyash-naik-48a093285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naiksreyash56@gmail.com) 
 
@@ -15,6 +20,10 @@ I’m currently working on AI/ML projects and Game Development🔭 <br>I’m cur
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sreyash9&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<img src="https://raw.githubusercontent.com/Sreyash9/Sreyash9/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sreyash9/Sreyash9/output/github-snake-dark.svg" />
