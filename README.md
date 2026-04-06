@@ -4,9 +4,8 @@ I love Gaming and Tech Development 🎮<br>
 I’m currently working on AI/ML projects and Game Development🔭 <br>I’m currently learning Machine Learning libraries, Computer vision and Game Development🌱 <br>⚡ I'm open to connect and collaborate on projects 💯
 
 # Profile Views:
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Sreyash9/count.svg?"  />
-</div>
+[![Sreyash9 profile views](https://u8views.com/api/v1/github/profiles/145284990/views/day-week-month-total-count.svg)](https://u8views.com/github/Sreyash9)
+
 
 ###
 ## 🌐 Socials:
